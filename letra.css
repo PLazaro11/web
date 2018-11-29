@@ -1,7 +1,7 @@
 
 }
 a:hover {
-    background-color:aquamarine;
+    background-color:#30E899;
 }
 
 #HOLA{position: absolute;
@@ -20,14 +20,13 @@ a:hover {
 font-family: 'PT Serif', serif;
 }
 
-header { background-color:#F7F2AE;
-          color: white;}
+header { background-color:#F7F2AE;}
 
 a{
-text-decoration:none;ç
+text-decoration:none;
    color:#000;
     border-radius:19px;
 }
 a:hover {
-    background-color:aquamarine;
+    background-color:#30E899;
 }
